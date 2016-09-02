@@ -421,7 +421,7 @@ Reference the [solution-nested-items branch](../../tree/solution-nested-items) f
 * [RSpec Rails Docs](https://github.com/rspec/rspec-rails)
 * [RSpec Controller Specs](https://www.relishapp.com/rspec/rspec-rails/docs/controller-specs)
 * [RSpec Built-In Matchers](https://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers)
-* [Factory Girl Rails Docs](https://github.com/thoughtbot/factory_girl_rails" target)
+* [Factory Girl Rails Docs](https://github.com/thoughtbot/factory_girl_rails)
 * [FFaker Docs](https://github.com/ffaker/ffaker)
 * [FFaker Cheatsheet](http://ricostacruz.com/cheatsheets/ffaker.html)
 * [Rails Nested Resources](http://guides.rubyonrails.org/routing.html#nested-resources)
