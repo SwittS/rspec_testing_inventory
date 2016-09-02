@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-1. Fork this repo, and clone it into your WDI class folder on your local machine.
+1. Clone this repo into your WDI class folder on your local machine.
 2. Run `bundle install` to install gems.
 3. Run `rake db:create db:migrate` to create and migrate the database.
 4. Start your Rails server.
